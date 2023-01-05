@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 5501,
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#9b16e7",
+        "terminalCursor.foreground": "#49B9C7",
+        "editorCursor.background": "#ffffff",
+        "activityBar.background": "#2D3004",
+        "titleBar.activeBackground": "#3F4305",
+        "titleBar.activeForeground": "#FAFCDD"
+    }
+}
